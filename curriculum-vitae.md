@@ -5,13 +5,6 @@
 - [LinkedIn](https://ir.linkedin.com/in/shayan-shafiee-moghadam-184ab5153)
 - [Github](https://github.com/shayansm2)
 ---
-## WORK EXPERIENCE
-TODO
-(the largest e-commerce company in the middle east)
-Tehran, Iran
-### **Technical Lead** at **[Digikala](https://www.digikala.com/)**
-
----
 ## EDUCATION
 ### Master of Science, Industrial Engineering (Systems Optimization) at **University of Tehran**
 Sep 2019-Jun 2022
@@ -31,6 +24,12 @@ Sep 2015-Jun 2019
 	- Engineering Statistics(20/20)
 	- Operations Research(19.5/20)
 	- Management Information Systems(20/20)
+---
+## WORK EXPERIENCE
+
+(the largest e-commerce company in the middle east)
+Tehran, Iran
+### **Technical Lead** at **[Digikala](https://www.digikala.com/)**
 ---
 ## PUBLICATIONS
 - A. Asadi Delivand, **S. Shafiee Moghadam**, A. Aghsami, and F. Jolai, [A Meta Heuristic Approach for Reliable Capacitated Facility Joint Inventory-Location Problem with Round-Trip Transportation under Imperfect Information of Disruption in a Fuzzy Environment](https://www.rairo-ro.org/articles/ro/abs/2022/05/ro210538/ro210538.html), **Appeared** at the journal of Rairo Operations Research Volume 56 (September 2022)

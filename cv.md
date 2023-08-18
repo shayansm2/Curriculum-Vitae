@@ -60,12 +60,16 @@
 ## TEACHING AND RESEARCH EXPERIENCE
 **Teaching Assistant** of *Scheduling Theory* course at University of Tehran *(Sep 2020-Jan 2021)*
 - Prepared lectures and teaching materials for the graduate students’ class.
+
 **Teaching Assistant** of *Probability Theory* course at University of Tehran *(Sep 2018-Jan 2019)*
 - Conducted weekly tutorials for classes of undergraduate students.
+
 **Member of Industrial Engineering Scientific Association** (UTIESA) at University of Tehran *(Oct 2016–Aug 2018)*
 - Responsible for arranging visits from industrial units and organizing additional workshops and training courses
+
 **Research Assistant** of *Microeconomics* course at University of Tehran *(Sep 2017-Jan 2018)*
 - Guiding students in their projects, evaluating and grading projects.
+
 **Teaching Assistant** of *Computer Programming in C++* course at University of Tehran *(Sep 2016-Jan 2017)*
 - Tutored undergraduate students and graded assignments and quizzes.
 

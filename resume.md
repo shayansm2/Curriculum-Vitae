@@ -7,34 +7,40 @@
 
 ## WORK EXPERIENCE
 ### **Technical Lead** at Digikala
-Sep 2022-Present
+- *Sep 2022-Present*
 - Led a team of 10 back-end engineers, application developers and QAs in [Digikala](https://www.digikala.com/) (the largest e-commerce company in the Middle East), overseeing the checkout and order management systems.
 - Managed various projects and improvements in the checkout channel, such as test automation of order management, sales and checkout of non-inventory products, alerting and monitoring of checkout funnel, and enhancing user experience and checkout conversion rate.
+
 ### **Bootcamp Instructor** at Digikala
-Jul 2022-Sep 2022
+- *Jul 2022-Sep 2022*
 -  Served as a bootcamp instructor for a 5-person team, leading them to deliver a project and answering their technical questions in a 2-month period.
+
 ### **Backend Engineer** at Digikala
-Apr 2021-Sep 2022
+- *Apr 2021-Sep 2022*
 - Responsible for back-end development of digikala.com , using PHP and Symfony framework.
 - Developing and maintaining projects such as b2b e-commerce, user verification, subscription checkout, and new big data tracker SDK.
+
 ### **Business Intelligence Analyst** at BlueBitSoft
-Jun 2022-Sep 2020 (parttime)
+- *Jun 2022-Sep 2020 (parttime)*
 - Worked as a BI analyst for a remote part-time job in Netherlands, building and improving visualizations dashboards using PowerBI to provide managerial insights.
+
 ### **Data Analyst** at Digikala
-Jul 2019-Apr 2021
+- *Jul 2019-Apr 2021*
 - Developed and applied data driven solutions for various projects such as price anomaly detection, discount optimization, and online sales forecasting, using Python and statistical techniques.
 - Enhanced the efficiency and convenience of data analysis by creating visualizations PowerBI dashboards, designing and executing automated process solutions, and providing insights for decision making.
+
 ### **Teaching Assistant** of *Computer Programming in C++* course at University of Tehran
-Sep 2016-Jan 2017
+- *Sep 2016-Jan 2017*
 - Tutored undergraduate students and graded assignments and quizzes.
 
 ## EDUCATION
 ### Master of Science, Industrial Engineering (Systems Optimization) at **University of Tehran**
-Sep 2019-Jun 2022
+- *Sep 2019-Jun 2022*
 - **CGPA**: 4/4 *(19.21/20)* 
 - **Thesis**: Solving a dynamic location-routing-inventory problem for a supply chain of fast-moving consumer goods by a data-driven optimization approach
+
 ### Bachelor of Science, Industrial Engineering at **University of Tehran**
-Sep 2015-Jun 2019
+- *Sep 2015-Jun 2019*
 - **CGPA**: 3.96/4 *(19/20)*
 - **Thesis**: A hybrid NSGA-II algorithm for solving organ transplant routing-allocation problem in healthcare supply chain network
 

@@ -65,7 +65,7 @@
 - **Databases:** MySQL, Redis, Elastic Search
 - **Other tools:** Git, Docker
 - **Other Softwares:** PowerBI, GAMS, MATLAB
-- Languages:
+- **Languages**:
 	- Persian (Native)
 	- English (Fluent IELTS 7.5)
 	- Dutch (Elementary)

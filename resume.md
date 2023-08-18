@@ -39,6 +39,15 @@ Sep 2015-Jun 2019
 - **CGPA**: 3.96/4 *(19/20)*
 - **Thesis**: A hybrid NSGA-II algorithm for solving organ transplant routing-allocation problem in healthcare supply chain network
 ---
+## HONORS AND AWARDS
+- Granted merit-based honorary **graduate full scholarship** for studying **Master’s Degree** without national university entrance exam in **University of Tehran, 2018**    
+- Secured **2nd position** among all undergraduate students, **School of Industrial Engineering, University of Tehran, 2019**
+- Awarded **F.O.E (Faculty of Engineering) prize** for top students in **University of Tehran, 2016, 2017 and 2018**
+- Ranked **544th** among more than 180,000 participants, Iranian **University Entrance Exam** in the mathe- matical science field for bachelor‘s program, **2015**.
+- Semifinalist in **National Mathematics and Computer Olympiad, 2011, 2012, 2013**
+- **Honorary author** at Fan-Kaav, the official journal of the School of Industrial Engineering, **University of Tehran, 2017**
+
+---
 ## CERTIFICATES
 - Golang Programming ([Coursera](https://www.coursera.org/account/accomplishments/verify/NYR3QBYLTVUW?utm_campaign=sharing_cta&utm_content=cert_image&utm_medium=certificate&utm_product=course&utm_source=android)and [Sololearn](https://www.sololearn.com/Certificate/CT-C8VXYZWC/png))
 - Linux OS ([Quera](https://quera.org/media/public/quera_certificate/057908bf78d341e5a6c31d3cf2d2687f.jpg))
@@ -51,14 +60,24 @@ Sep 2015-Jun 2019
 	- PHP
 	- Golang
 	- SQL
-- **Softwares and Technologies:**
-	- Laravel framework
-	- Symfony framework
+	- javascript
+- **Frameworks**:
+	- Laravel
+	- Symfony
+	- Fast API
+- **Databases:**
+	- MySQL
 	- Redis
 	- Elastic Search
+- **Other tools:**
 	- Git
 	- Docker
+- **Other Softwares:**
 	- PowerBI
 	- GAMS
 	- MATLAB
+- Languages:
+	- Persian (Native)
+	- English (Fluent IELTS 7.5)
+	- Dutch (Elementary)
 ---

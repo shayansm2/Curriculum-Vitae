@@ -21,7 +21,7 @@
 - Developing and maintaining projects such as b2b e-commerce, user verification, subscription checkout, and new big data tracker SDK.
 
 ### **Business Intelligence Analyst** at BlueBitSoft
-- *Jun 2022-Sep 2020 (parttime)*
+- *Jun 2022-Sep 2020 (part-time)*
 - Worked as a BI analyst for a remote part-time job in Netherlands, building and improving visualizations dashboards using PowerBI to provide managerial insights.
 
 ### **Data Analyst** at Digikala

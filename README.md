@@ -69,6 +69,7 @@
 - Tutored undergraduate students and graded assignments and quizzes.
 
 ## HONORS AND AWARDS
+- Ranked 10th in Iranian **PhD Entrance Exam** in the Industrial engineering field, **2021**.
 - Granted merit-based honorary **graduate full scholarship** for studying **Master’s Degree** without national university entrance exam in **University of Tehran, 2018**    
 - Secured **2nd position** among all undergraduate students, **School of Industrial Engineering, University of Tehran, 2019**
 - Awarded **F.O.E (Faculty of Engineering) prize** for top students in **University of Tehran, 2016, 2017 and 2018**
@@ -77,27 +78,51 @@
 - **Honorary author** at Fan-Kaav, the official journal of the School of Industrial Engineering, **University of Tehran, 2017**
 
 ## CERTIFICATES
+- Algorithm and Data Structure ([Quera](https://quera.org/media/public/quera_certificate/f8df1a6cae9941449b2d6c0f206ff8bb.jpg))
+- Neural Networks and Deep Learning ([Coursera](https://www.coursera.org/account/accomplishments/verify/4VJK5VNUJFKS?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) and [Coursera](https://www.coursera.org/account/accomplishments/verify/BB5PV5BQUS68?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course))
 - Golang Programming ([Coursera](https://www.coursera.org/account/accomplishments/verify/NYR3QBYLTVUW?utm_campaign=sharing_cta&utm_content=cert_image&utm_medium=certificate&utm_product=course&utm_source=android) and [Sololearn](https://www.sololearn.com/Certificate/CT-C8VXYZWC/png))
 - Linux OS ([Quera](https://quera.org/media/public/quera_certificate/057908bf78d341e5a6c31d3cf2d2687f.jpg))
 - Laravel framework ([Quera](https://quera.org/media/public/quera_certificate/6c2700964b7e4b6dbb280b328fa5a4f1.jpg))
-- Algorithm and Data Structure ([Quera](https://quera.org/media/public/quera_certificate/f8df1a6cae9941449b2d6c0f206ff8bb.jpg))
-- Neural Networks and Deep Learning ([Coursera](https://www.coursera.org/account/accomplishments/verify/4VJK5VNUJFKS?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) and [Coursera](https://www.coursera.org/account/accomplishments/verify/BB5PV5BQUS68?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course))
 
 ## SKILLS
-- **Programming Languages:**  Python, PHP, Golang, SQL, Javascript
-- **Frameworks**: Laravel, Symfony, Fast API
-- **Databases:** MySQL, Redis, Elastic Search
-- **Other tools:** Git, Docker
-- **Other Softwares:** PowerBI, GAMS, MATLAB
+- **Programming Languages:**
+	- Python
+	- PHP
+	- Golang
+	- SQL
+	- Javascript
+	- Java
+- **Python Data packages:** 
+	- Numpy
+	- Pandas
+	- Matplotlib
+	- Scikit-learn
+- **Databases and Data Storage:**
+	- MySQL
+	- Redis
+	- Elastic Search
+	- Apache Kafka
+- **Web Frameworks**:
+	- Laravel
+	- Symfony
+	- Fast API
+	- Flask
+- **Version Control and Deployment:**
+	- Git
+	- Docker
+- **Data Analysis Tools**:
+	- PowerBI
+	- GAMS
+	- MATLAB
 - **Languages**:
 	- Persian (Native)
 	- English (Fluent IELTS 7.5)
 	- Dutch (Elementary)
 
-%% // todo make it better %%
 ## NOTABLE PROJECTS
-- Solved a Facility Joint Inventory-Routing-Disruption Problem using Red Deer Algorithm
-- Implemented a Joint Demand Prediction and Discount optimizer Model  
-- Developed various search algorithm for the ”shortest path problem”  
-- Designed and Automated Price Anomaly Detection in an E-commerce company  
-- Solved an Aircraft Fleet Assignment Problem using Genetic Algorithm
+- Developed a library named MetaAlgoLib for solving optimization problems using Meta Heuristic Algorithms ([MetaAlgoLib page](https://shayansm2.github.io/metaalgolib/))
+- Solved a Facility Joint Inventory-Routing-Disruption Problem using Red Deer Algorithm ([GitHub page](https://github.com/shayansm2/location_inventory_routing_disruption))
+- Implemented a Joint Demand Prediction and Discount optimizer Model ([GitHub Page](https://github.com/shayansm2/location_inventory_routing_disruption))
+- Developed various search algorithm for the ”shortest path problem” ([GitHub Page](https://github.com/shayansm2/shortest_path_problem))
+- Designed and Automated Price Anomaly Detection in an E-commerce company ([GitHub Page](https://github.com/shayansm2/price_anomaly_detection))
+- Solved an Aircraft Fleet Assignment Problem using Genetic Algorithm ([GitHub Page](https://github.com/shayansm2/aircraft_fleet_assignment_problem))

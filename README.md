@@ -85,39 +85,13 @@
 - Laravel framework ([Quera](https://quera.org/media/public/quera_certificate/6c2700964b7e4b6dbb280b328fa5a4f1.jpg))
 
 ## SKILLS
-- **Programming Languages:**
-	- Python
-	- PHP
-	- Golang
-	- SQL
-	- Javascript
-	- Java
-- **Python Data packages:** 
-	- Numpy
-	- Pandas
-	- Matplotlib
-	- Scikit-learn
-- **Databases and Data Storage:**
-	- MySQL
-	- Redis
-	- Elastic Search
-	- Apache Kafka
-- **Web Frameworks**:
-	- Laravel
-	- Symfony
-	- Fast API
-	- Flask
-- **Version Control and Deployment:**
-	- Git
-	- Docker
-- **Data Analysis Tools**:
-	- PowerBI
-	- GAMS
-	- MATLAB
-- **Languages**:
-	- Persian (Native)
-	- English (Fluent IELTS 7.5)
-	- Dutch (Elementary)
+- **Programming Languages:** Python, PHP, Golang, SQL, Javascript, Java
+- **Python Data packages:** Numpy, Pandas, Matplotlib, Scikit-learn
+- **Databases and Data Storage:** MySQL, Redis, Elastic Search, Apache Kafka
+- **Web Frameworks**: Laravel, Symfony, Fast API, Flask
+- **Version Control and Deployment:** Git, Docker
+- **Data Analysis and Optimization Tools**: PowerBI, GAMS, MATLAB
+- **Languages**: Persian (Native), English (Fluent IELTS 7.5), Dutch (Elementary)
 
 ## NOTABLE PROJECTS
 - Developed a library named MetaAlgoLib for solving optimization problems using Meta Heuristic Algorithms ([MetaAlgoLib page](https://shayansm2.github.io/metaalgolib/))

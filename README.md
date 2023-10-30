@@ -6,8 +6,8 @@
 - [Github](https://github.com/shayansm2)
 
 ## PUBLICATIONS
-- **S. Shafiee Moghadam**, A. Aghsami, and M. Rabbani, [A Hybrid NSGA-II Algorithm for The Closed-loop Supply Chain Network Design in E-commerce](https://www.rairo-ro.org/articles/ro/abs/2021/04/ro200482/ro200482.html), **Appeared** at the **<u>journal of Rairo Operations Research</u>** Volume55 (May 2021)
-- A. Asadi Delivand, **S. Shafiee Moghadam**, A. Aghsami, and F. Jolai, [A Meta Heuristic Approach for Reliable Capacitated Facility Joint Inventory-Location Problem with Round-Trip Transportation under Imperfect Information of Disruption in a Fuzzy Environment](https://www.rairo-ro.org/articles/ro/abs/2022/05/ro210538/ro210538.html), **Appeared** at the **<u>journal of Rairo Operations Research</u>** Volume 56 (September 2022)
+- **S. Shafiee Moghadam**, A. Aghsami, and M. Rabbani, [A Hybrid NSGA-II Algorithm for The Closed-loop Supply Chain Network Design in E-commerce](https://www.rairo-ro.org/articles/ro/abs/2021/04/ro200482/ro200482.html), **Appeared** in the **<u>journal of Rairo Operations Research</u>** Volume55 (May 2021)
+- A. Asadi Delivand, **S. Shafiee Moghadam**, A. Aghsami, and F. Jolai, [A Meta Heuristic Approach for Reliable Capacitated Facility Joint Inventory-Location Problem with Round-Trip Transportation under Imperfect Information of Disruption in a Fuzzy Environment](https://www.rairo-ro.org/articles/ro/abs/2022/05/ro210538/ro210538.html), **Appeared** in the **<u>journal of Rairo Operations Research</u>** Volume 56 (September 2022)
 - **S. Shafiee Moghadam**, A. Asadi Delivand, and F. Ghaderi, [Development and Analysis of a System Dynamics Model for Investigating and Improving the Water Consumption Pattern](https://civilica.com/doc/912007/), **Accepted** in **<u>The Second National Conference of the Iranian System Dynamics Society</u>** (May 2019)
 
 ## EDUCATION
@@ -91,7 +91,7 @@
 - **Web Frameworks**: Laravel, Symfony, Fast API, Flask
 - **Version Control and Deployment:** Git, Docker
 - **Data Analysis and Optimization Tools**: PowerBI, GAMS, MATLAB
-- **Languages**: Persian (Native), English (Fluent IELTS 7.5), Dutch (Elementary)
+- **Languages**: English (Fluent TOEFL 101 & IELTS 7.5), Persian (Native), Dutch (Elementary)
 
 ## NOTABLE PROJECTS
 - Developed a library named MetaAlgoLib for solving optimization problems using Meta Heuristic Algorithms ([MetaAlgoLib page](https://shayansm2.github.io/metaalgolib/))

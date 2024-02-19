@@ -78,7 +78,7 @@
 - **Honorary author** at Fan-Kaav, the official journal of the School of Industrial Engineering, **University of Tehran, 2017**
 
 ## CERTIFICATES
-- Machine Learning ([DataTalksClub]([certificate link](https://certificate.datatalks.club/ml-zoomcamp/2023/3481f400d17ea5bdcaed692c4709d6b657a588e2.pdf)))
+- Machine Learning ([DataTalksClub](https://certificate.datatalks.club/ml-zoomcamp/2023/3481f400d17ea5bdcaed692c4709d6b657a588e2.pdf))
 - Algorithm and Data Structure ([Quera](https://quera.org/media/public/quera_certificate/f8df1a6cae9941449b2d6c0f206ff8bb.jpg))
 - Neural Networks and Deep Learning ([Coursera](https://www.coursera.org/account/accomplishments/verify/4VJK5VNUJFKS?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) and [Coursera](https://www.coursera.org/account/accomplishments/verify/BB5PV5BQUS68?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course))
 - Golang Programming ([Coursera](https://www.coursera.org/account/accomplishments/verify/NYR3QBYLTVUW?utm_campaign=sharing_cta&utm_content=cert_image&utm_medium=certificate&utm_product=course&utm_source=android) and [Sololearn](https://www.sololearn.com/Certificate/CT-C8VXYZWC/png))

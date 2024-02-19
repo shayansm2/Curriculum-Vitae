@@ -44,7 +44,7 @@
 - Responsible for back-end development of digikala.com , using PHP and Symfony framework.
 - Developing and maintaining projects such as b2b e-commerce, user verification, subscription checkout, and new big data tracker SDK.
 ### **Business Intelligence Analyst** at BlueBitSoft
-- *Jun 2022-Sep 2020 (part-time)*
+- *Jun 2020-Sep 2020 (part-time)*
 - Worked as a BI analyst for a remote part-time job in Netherlands, building and improving visualizations dashboards using PowerBI to provide managerial insights.
 ### **Data Analyst** at Digikala
 - *Jul 2019-Apr 2021*
@@ -62,7 +62,7 @@
 **Member of Industrial Engineering Scientific Association** (UTIESA) at University of Tehran *(Oct 2016–Aug 2018)*
 - Responsible for arranging visits from industrial units and organizing additional workshops and training courses
 
-**Research Assistant** of *Microeconomics* course at University of Tehran *(Sep 2017-Jan 2018)*
+**Teaching Assistant** of *Microeconomics* course at University of Tehran *(Sep 2017-Jan 2018)*
 - Guiding students in their projects, evaluating and grading projects.
 
 **Teaching Assistant** of *Computer Programming in C++* course at University of Tehran *(Sep 2016-Jan 2017)*
